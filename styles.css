@@ -1,0 +1,98 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3em;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid 2px black;
+    box-shadow: 5px 5px 15px 0px rgba(0,0,0,0.4);
+    
+}
+
+body{
+    background-color: white;
+
+}
+
+form{
+    
+    padding-bottom: 5%;
+    border-radius: 25px;
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+#expense{
+    border-radius: 25px;
+}
+
+#date{
+    border-radius: 25px;
+}
+
+#amount{
+    border-radius: 25px;
+}
+
+#notes{
+    min-width: 100px;
+    border-radius: 25px;
+    
+}
+
+
+#submit{
+    margin-top: 50px;
+    background-color: rgba(127, 255, 212, 0.50);
+    height: 30px;
+    width: 80px;
+    border: solid 1px black;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+table{
+    width: 100%;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 5px 5px 15px 0px rgba(0,0,0,0.4);
+}
+
+th {
+    background-color: rgba(127, 255, 212, 0.50);
+    border: 1px solid;
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+td{
+    align-items: center;
+    border: 1px solid;
+    font-size: 0.8em;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+
+}
+
+
+
+#rest{
+    margin-top: 40px;
+    border: 1px solid;
+   
+   
+}
+
+#graph{
+
+    padding-top: 100px;
+    padding-left: 25%;
+    
+
+}
